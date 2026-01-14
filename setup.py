@@ -15,7 +15,7 @@ setup(
     zip_safe=True,
     maintainer='diego',
     maintainer_email='dgraziati@gmail.com',
-    description='A FastLimo test anda debug package',
+    description='A FastLIMO messages synchronizer nodes',
     license='GNU GPLv3',
     extras_require={
         'test': [
@@ -24,7 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'synchronizer = fast_limo_synchronizer.synchronizer_v3_node:main',
+            'synchronizer = fast_limo_synchronizer.synchronizer_node:main',
         ],
     },
 )
