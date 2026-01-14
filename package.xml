@@ -3,7 +3,7 @@
 <package format="3">
   <name>fast_limo_synchronizer</name>
   <version>0.0.0</version>
-  <description>A FastLimo test anda debug package</description>
+  <description>A FastLIMO messages synchronizer nodes</description>
   <maintainer email="dgraziati@gmail.com">diego</maintainer>
   <license>GNU GPLv3</license>
 
